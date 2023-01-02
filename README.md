@@ -32,8 +32,6 @@ Jenkins | Plugins
 
 
 
-
-
 https://github.com/sidpalas/devops-directive-terraform-course
 
 
